@@ -15,3 +15,42 @@
 .logo {
     font-weight: bold;
 }
+
+/* Awesome Website */
+
+.awesomeWebsite {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 15%;
+    margin-right: 15%;
+    align-items: center;
+}
+
+/* random info */
+
+.randomInfo {
+    text-align: center;
+}
+
+.randomTitle {
+    margin-bottom: 40px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+}
+
+.info {
+ max-width: 200px;   
+}
+
+.box {
+    border: 5px solid #3882f6;
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+}
+
+/* Quote */
