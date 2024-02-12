@@ -1,0 +1,17 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.navigator {
+    display: flex;
+    list-style-type: none;
+    gap: 12px;
+}
+
+.logo {
+    font-weight: bold;
+}
