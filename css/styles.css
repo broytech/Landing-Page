@@ -54,3 +54,44 @@
 }
 
 /* Quote */
+
+.quoteBlock {
+    padding: 100px 10%;
+}
+
+.citation {
+    display: block;   
+    text-align: right;
+}
+
+/* sign up */
+
+.signupBlock {
+    background-color: #3882f6;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    max-width: 900px;
+}
+
+.bottom {
+    margin: 20px 15%;
+    color: white;
+}
+
+.call {
+    margin-bottom: 0px;
+}
+
+button {
+    background-color: #3882f6;
+    color: aliceblue;
+    border-color: white;
+    border-radius: 6px;
+    padding: 5px 10px;
+}
+
+/* footer */
+
