@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body {
+    /* font-family: roboto; */
+}
+
 .top {
     background-color: #1f2937;
     padding-top: 20px;
@@ -164,6 +168,11 @@ footer {
     background-color: #1f2937;
     color: #e5e7eb;
     padding: 20px 10px;
+}
+
+.credit {
+    text-align: left;
+    margin-top: 5px;
 }
 
 /* all */
